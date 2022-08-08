@@ -1,0 +1,1 @@
+Good passing is crucial to winning Lunaro. When aiming near a teammate you will see a chevron appear over them. Tapping pass with this chevron up will automatically pass to that player. Keep in mind it is still possible to intercept a pass, but a passed Lunaro moves faster and more accurately to a receiver than a standard launch.

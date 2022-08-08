@@ -1,0 +1,1 @@
+Lunaro is a team game, played on a field divided into two halves: Sun and Moon. The objective is simple: Get the ball, called a 'Lunaro' through the opponent's goal at the opposite end of the arena. The team with the most points by the end of the match wins the game.
